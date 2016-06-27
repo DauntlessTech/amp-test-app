@@ -1,0 +1,17 @@
+{
+  "name": "amp-test-app",
+  "version": "1.0.0",
+  "description": "Simple app to test converting RSS html to AMP",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "gulp serve"
+  },
+  "author": "Zachary Foutz (DauntlessTech)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-copy": "0.0.2",
+    "gulp-serve": "^1.2.0",
+    "html-to-amp": "^2.0.2"
+  }
+}
